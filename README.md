@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThiagoCostaBarbosa
+- 👀 I’m interested in  Functional Programming
+- 🌱 I’m currently learning JS, Elixir
+- 💞️ I’m looking to collaborate on ...
